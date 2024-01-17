@@ -1,29 +1,31 @@
-# arithmetic_calculator
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="90px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px"><br><br>
+  <h1>Arithmetic Calculator</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+</div>
 
-## Recommended IDE Setup
+## Description
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Created an arithmetic calculator using JavaScript and VueJS
 
-## Customize configuration
+## Contributing
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+We welcome and appreciate your contributions to this project! Whether you have suggestions, bug fixes, or new features you'd like to add, please feel free to fork this repository.
 
-## Project Setup
+### How to Contribute
 
-```sh
-npm install
-```
+1. Fork the project.
+2. Create a branch for your contribution: `git checkout -b my-contribution`.
+3. Make your changes and commit: `git commit -m 'Add my contribution'`.
+4. Push to your branch: `git push origin my-contribution`.
+5. Open a pull request for review.
 
-### Compile and Hot-Reload for Development
+## Feedback and Issues
 
-```sh
-npm run dev
-```
+If you have contributions, suggestions, or feedback, feel free to open an issue.
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+<div align="center">
+  <h2>Full Stack Developer Java: Front-End</h2>
+  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="100px">
+</div>
