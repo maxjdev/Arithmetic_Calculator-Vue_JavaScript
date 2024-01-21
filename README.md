@@ -14,7 +14,7 @@
 
 ## Description
 
-Created an arithmetic calculator using JavaScript and VueJS
+Arithmetic calculator using JavaScript and VueJS
 
 ## How to Start the Project
 
