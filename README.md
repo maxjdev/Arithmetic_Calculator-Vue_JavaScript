@@ -1,13 +1,39 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="90px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px"><br><br>
+
   <h1>Arithmetic Calculator</h1>
 
+  ### Techs Used
+
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
 </div>
 
 ## Description
 
 Created an arithmetic calculator using JavaScript and VueJS
+
+## How to Start the Project
+
+- **Clone the repository:**
+```bash
+git clone https://github.com/your-username/repository-name.git
+```
+- **Open the project directory:**
+```bash
+cd repository-name
+```
+- **Install project dependencies:**
+```bash
+npm install
+```
+- **Start:**
+```bash
+npm start
+```
 
 ## Contributing
 
@@ -24,8 +50,3 @@ We welcome and appreciate your contributions to this project! Whether you have s
 ## Feedback and Issues
 
 If you have contributions, suggestions, or feedback, feel free to open an issue.
-
-<div align="center">
-  <h2>Full Stack Developer Java: Front-End</h2>
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="100px">
-</div>
